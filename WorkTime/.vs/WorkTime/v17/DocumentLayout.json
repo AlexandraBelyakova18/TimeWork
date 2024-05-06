@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s111\\Desktop\\WorkTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{041491ED-F5A7-4903-9B51-FEA4EF2959EC}|WorkTime\\WorkTime.csproj|c:\\users\\s111\\desktop\\worktime\\worktime\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{041491ED-F5A7-4903-9B51-FEA4EF2959EC}|WorkTime\\WorkTime.csproj|solutionrelative:worktime\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041491ED-F5A7-4903-9B51-FEA4EF2959EC}|WorkTime\\WorkTime.csproj|c:\\users\\s111\\desktop\\worktime\\worktime\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{041491ED-F5A7-4903-9B51-FEA4EF2959EC}|WorkTime\\WorkTime.csproj|solutionrelative:worktime\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041491ED-F5A7-4903-9B51-FEA4EF2959EC}|WorkTime\\WorkTime.csproj|c:\\users\\s111\\desktop\\worktime\\worktime\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{041491ED-F5A7-4903-9B51-FEA4EF2959EC}|WorkTime\\WorkTime.csproj|solutionrelative:worktime\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\s111\\Desktop\\WorkTime\\WorkTime\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WorkTime\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\s111\\Desktop\\WorkTime\\WorkTime\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WorkTime\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAHkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:24:27.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\s111\\Desktop\\WorkTime\\WorkTime\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WorkTime\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\s111\\Desktop\\WorkTime\\WorkTime\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "WorkTime\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:25:30.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\s111\\Desktop\\WorkTime\\WorkTime\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WorkTime\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\s111\\Desktop\\WorkTime\\WorkTime\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WorkTime\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:25:12.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
